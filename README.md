@@ -7,3 +7,6 @@ border-left shorthand property
     border-left: 10px solid black;
   }
 For the border-left shorthand property, change the border style value from solid to double.
+.sleeve{
+
+}
